@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5cd4376-fbdd-4c3e-8f4f-39835e23c29e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1XKj3gVqnwqvupWGhLWNQrzrxBe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/MIT2020/fineview" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5cd4376-fbdd-4c3e-8f4f-39835e23c29e" name="Default Changelist" comment="" />
+      <created>1580801482174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580801482174</updated>
+      <workItem from="1580801486485" duration="5106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="295" y="128" width="426" height="480" key="FileChooserDialogImpl" timestamp="1580806168335">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="295" y="128" width="426" height="480" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1580806168335" />
+    <state x="332" y="296" width="351" height="144" key="NewPhpFileDialog" timestamp="1580801730610">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="332" y="296" width="351" height="144" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1580801730610" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1580801489916">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1580801489916" />
+    <state x="175" y="62" key="search.everywhere.popup" timestamp="1580802480134">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="175" y="62" key="search.everywhere.popup/0.0.1024.741@0.0.1024.741" timestamp="1580802480134" />
+  </component>
+</project>
