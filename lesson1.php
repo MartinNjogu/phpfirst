@@ -23,12 +23,16 @@ echo $name1;
 echo $name2;
 echo $name3;
 
-echo"<h1>Hello World</h1>";
-
-
-
-
-
+//concentration/joining
+//joining a variable with avariable :use the dot operator
+echo $name1.$name2;
+$car1="benz";
+$car2="toyota";
+//echo $car1.$car2;
+echo $car1."  ".$car2.'<br>';
+//joining a string and a variabl
+echo "I love $car1".'<br>';
+echo "I love $car1 and $car2"
 
 
 ?>

@@ -2,8 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5cd4376-fbdd-4c3e-8f4f-39835e23c29e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson11.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.4.1-dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +51,16 @@
       <executable />
     </execution>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mit2020morning" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -25,6 +71,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -33,6 +80,24 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.lesson10.php">
+    <configuration name="lesson10.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mit2020morning/lesson10.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson3.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mit2020morning/lesson3.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson6.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mit2020morning/lesson6.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.lesson10.php" />
+        <item itemvalue="JavaScript Debug.lesson6.php" />
+        <item itemvalue="JavaScript Debug.lesson3.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,7 +110,53 @@
       <option name="presentableId" value="Default" />
       <updated>1580801482174</updated>
       <workItem from="1580801486485" duration="6388000" />
-      <workItem from="1580881919122" duration="526000" />
+      <workItem from="1580881919122" duration="10481000" />
+      <workItem from="1580967468070" duration="12014000" />
+      <workItem from="1581053153195" duration="599000" />
+      <workItem from="1581054841012" duration="900000" />
+      <workItem from="1581056606409" duration="1796000" />
+      <workItem from="1581058424971" duration="601000" />
+      <workItem from="1581059601316" duration="1653000" />
+      <workItem from="1581062185324" duration="1739000" />
+      <workItem from="1581063945293" duration="799000" />
+      <workItem from="1581312717819" duration="619000" />
+      <workItem from="1581313881836" duration="1020000" />
+      <workItem from="1581314930186" duration="1780000" />
+      <workItem from="1581316943238" duration="1743000" />
+      <workItem from="1581318711301" duration="1792000" />
+      <workItem from="1581320537111" duration="1782000" />
+      <workItem from="1581322339298" duration="1877000" />
+      <workItem from="1581484477407" duration="226000" />
+      <workItem from="1581485095998" duration="782000" />
+      <workItem from="1581486230362" duration="1437000" />
+      <workItem from="1581488397280" duration="1727000" />
+      <workItem from="1581490147362" duration="1793000" />
+      <workItem from="1581491965365" duration="1791000" />
+      <workItem from="1581493777682" duration="1791000" />
+      <workItem from="1581495589917" duration="1912000" />
+      <workItem from="1581572351336" duration="1477000" />
+      <workItem from="1581574274988" duration="509000" />
+      <workItem from="1581574818582" duration="1876000" />
+      <workItem from="1581576720357" duration="1469000" />
+      <workItem from="1581578208708" duration="1648000" />
+      <workItem from="1581579883629" duration="1791000" />
+      <workItem from="1581581702106" duration="1384000" />
+      <workItem from="1581583109278" duration="874000" />
+      <workItem from="1581657118072" duration="205000" />
+      <workItem from="1581657347995" duration="1297000" />
+      <workItem from="1581659359712" duration="1821000" />
+      <workItem from="1581661249841" duration="1775000" />
+      <workItem from="1581663046717" duration="1972000" />
+      <workItem from="1581665043527" duration="880000" />
+      <workItem from="1581666215702" duration="1459000" />
+      <workItem from="1581669070995" duration="9000" />
+      <workItem from="1581670750966" duration="22000" />
+      <workItem from="1581922056952" duration="1162000" />
+      <workItem from="1581923241046" duration="1792000" />
+      <workItem from="1581925052913" duration="1055000" />
+      <workItem from="1581926130558" duration="746000" />
+      <workItem from="1581926899612" duration="1811000" />
+      <workItem from="1581928731859" duration="1332000" />
     </task>
     <servers />
   </component>
@@ -53,18 +164,54 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="128" width="426" height="480" key="FileChooserDialogImpl" timestamp="1580806168335">
+    <state x="91" y="26" width="826" height="680" key="#CLI_Interpreters" timestamp="1580887268863">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state x="295" y="128" width="426" height="480" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1580806168335" />
-    <state x="332" y="296" width="351" height="144" key="NewPhpFileDialog" timestamp="1580801730610">
+    <state x="91" y="26" width="826" height="680" key="#CLI_Interpreters/0.0.1024.741@0.0.1024.741" timestamp="1580887268863" />
+    <state x="209" y="0" width="598" height="737" key="#PHP" timestamp="1580887270588">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state x="332" y="296" width="351" height="144" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1580801730610" />
-    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1580801489916">
+    <state x="209" y="0" width="598" height="737" key="#PHP/0.0.1024.741@0.0.1024.741" timestamp="1580887270588" />
+    <state x="293" y="52" width="430" height="632" key="#lesson6.php" timestamp="1581320144069">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1580801489916" />
+    <state x="293" y="52" width="430" height="632" key="#lesson6.php/0.0.1024.741@0.0.1024.741" timestamp="1581320144069" />
+    <state x="295" y="128" width="426" height="480" key="FileChooserDialogImpl" timestamp="1581670766362">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="295" y="128" width="426" height="480" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1581670766362" />
+    <state width="978" height="177" key="GridCell.Tab.0.bottom" timestamp="1581319160260">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state width="978" height="177" key="GridCell.Tab.0.bottom/0.0.1024.741@0.0.1024.741" timestamp="1581319160260" />
+    <state width="978" height="177" key="GridCell.Tab.0.center" timestamp="1581319160259">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state width="978" height="177" key="GridCell.Tab.0.center/0.0.1024.741@0.0.1024.741" timestamp="1581319160259" />
+    <state width="978" height="177" key="GridCell.Tab.0.left" timestamp="1581319160259">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state width="978" height="177" key="GridCell.Tab.0.left/0.0.1024.741@0.0.1024.741" timestamp="1581319160259" />
+    <state width="978" height="177" key="GridCell.Tab.0.right" timestamp="1581319160260">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state width="978" height="177" key="GridCell.Tab.0.right/0.0.1024.741@0.0.1024.741" timestamp="1581319160260" />
+    <state x="332" y="296" width="351" height="144" key="NewPhpFileDialog" timestamp="1581928930533">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="332" y="296" width="351" height="144" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1581928930533" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1581928731288">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1581928731288" />
+    <state x="171" y="7" width="673" height="723" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581663215183">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="171" y="7" width="673" height="723" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1024.741@0.0.1024.741" timestamp="1581663215183" />
+    <state x="175" y="163" key="run.anything.popup" timestamp="1580890065929">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="175" y="163" key="run.anything.popup/0.0.1024.741@0.0.1024.741" timestamp="1580890065929" />
     <state x="175" y="62" key="search.everywhere.popup" timestamp="1580802480134">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
